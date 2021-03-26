@@ -5,7 +5,7 @@
 - 🌱 I'm a computer linguistics student in the Ludwig Maximilian University of Munich, therefore, I am currently learning machine learning, machine translation and other aspects of NLP. In my free time I am always learning something new concerning app development. I would like to learn next about CI/CD to make updating and managing my apps much simpler. 
 - 💞️ I’m looking to collaborate on an app development project that involves NLP.
 - 📫 How to reach me: Jamesmin90@gmail.com
-- ⚡ I was born in South Korea, I grew up in New York and New Jersey, I have also lived in California and Boston, and I live currently in Munich Germany. I can also speak Korean, English and German.
+- ⚡ Fun Facts: I was born in South Korea, I grew up in New York and New Jersey, I have also lived in California and Boston, and I live currently in Munich Germany. I can also speak Korean, English and German.
 
 <!---
 Jamesmin90/Jamesmin90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

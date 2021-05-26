@@ -1,7 +1,7 @@
 👋 Hi, I am James Min and here is what I am working on!
 
 - ⚙️  I've just released a Flutter app called "CSM: Christian Students Munich", CSM is a Christian student club and they will use this app for all club activities such as: Bible studies, sports activities, event planning, and trips together. It is now available on the Play Store and the App Store, so please check it out. 
-- 👀 I’m interested in App development and NLP. 
+- 👀 I’m interested in development in deep learning and NLP. 
 - 🌱 I'm a computer linguistics student in the Ludwig Maximilian University of Munich, therefore, I am currently learning machine learning, machine translation and other aspects of NLP. In my free time I am always learning something new concerning app development. 
 - 💞️ I’m looking to collaborate on an NLP project that involves NRls such as Transformers, BERT, GPT3 and etc.
 - 📫 How to reach me: Jamesmin90@gmail.com
